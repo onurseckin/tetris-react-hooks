@@ -1,4 +1,5 @@
 body {
+<<<<<<< e00d4a96ff8409b03c536dfd8cc24d47937feea5
     margin:0;
 }
 
@@ -6,3 +7,12 @@ body {
     font-family:'Pixel';
     src: url('static/fonts/Pixel-LCD-7.woff') format('woff');
 }
+=======
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'Pixel';
+  src: url('font/Pixel-LCD-7.woff') format('woff');
+}
+>>>>>>> final

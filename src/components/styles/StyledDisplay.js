@@ -1,4 +1,8 @@
+<<<<<<< e00d4a96ff8409b03c536dfd8cc24d47937feea5
 import styled from "styled-components";
+=======
+import styled from 'styled-components';
+>>>>>>> final
 
 export const StyledDisplay = styled.div`
   box-sizing: border-box;
